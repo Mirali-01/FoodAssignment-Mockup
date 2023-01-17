@@ -1,0 +1,51 @@
+body{
+    background-color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title{
+    border: solid orange;
+    text-align: center;
+}
+
+.description{
+    border: solid red;
+    text-align: center;
+    padding: 12px;
+    margin: 22px;
+}
+
+.spagetPic{
+    border: solid orange;
+    height: 375px;
+    margin-left: 37.5%;
+    border-radius: 12px;
+}
+
+.ingredients{
+    margin-left: 43%;
+}
+
+.items{
+    text-align: left;
+    margin-left: 37.5%;
+}
+
+.stepContainer{
+    border: solid orange;
+    margin: 12px;
+    padding: 22px;
+    
+}
+
+.steps{
+    text-align: left;
+    margin: 12px;
+}
+
+.backgroundImg{
+    border: solid wheat;
+    margin: 12px;
+    padding: 50px;
+    background-image: url("https://www.allrecipes.com/thmb/34awD0-SDe5ljgmpTvm7QzhuruY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DJ20-pantry-spaghetti-650x465-d04a95018b3743dcb4f35d054a75d678.jpg");
+}
